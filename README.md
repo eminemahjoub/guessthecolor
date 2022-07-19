@@ -4,7 +4,7 @@
 <h3 align="center">guess the color</h3>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Projectn
 
 ![jSnake Screenshot](https://github.com/eminemahjoub/guessthecolor/blob/a440c025a0cec4f57ce6e089de84826ca9f8c29d/GCgame.png)
 
